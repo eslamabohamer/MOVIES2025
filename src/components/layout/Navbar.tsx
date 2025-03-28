@@ -126,12 +126,12 @@ export const Navbar = () => {
             to="/"
             className="text-2xl font-bold tracking-tighter text-white"
           >
-            Movies
+            eslam
           </Link>
 
           <div className="hidden md:flex items-center space-x-6">
             <NavLink to="/">Homes</NavLink>
-            <NavLink to="/movies">Movies</NavLink>
+            <NavLink to="/movie">Movies</NavLink>
             <NavLink to="/series">Series</NavLink>
             <NavLink to="/watchlist">
               <Bookmark className="mr-1 h-4 w-4 inline" />
