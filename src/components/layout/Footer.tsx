@@ -51,7 +51,7 @@ const Footer = () => {
 
         <div className="border-t border-white/5 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Islam Abo Hamer . All rights reserved.
+            © {new Date().getFullYear()} Islam Abu Hamer . All rights reserved.
           </p>
 
           <div className="flex space-x-4 mt-4 md:mt-0">
